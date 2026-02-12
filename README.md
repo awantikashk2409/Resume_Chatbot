@@ -1,0 +1,1 @@
+Since it’s a RAG-based LLM system, I evaluated it on two levels — retrieval accuracy and answer faithfulness. I created a benchmark set of resume-related queries, measured Top-K retrieval success, and then checked semantic similarity between expected and generated responses. Traditional classification accuracy doesn’t apply directly to generative models.”
